@@ -1,10 +1,6 @@
 <div align="center">
 
-  <img
-    src="./cybersecurity.gif"
-    alt="Cybersecurity Animation"
-    width="620"
-  />
+
 
 </div>
 
@@ -177,7 +173,7 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 
 ---
 
-## 🕹️ Pac-Man Contributions
+## 🕹️ Pac-Man 
 
 <div align="center">
 
