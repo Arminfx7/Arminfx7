@@ -1,7 +1,7 @@
 <div align="center">
 
   <img
-    src="./assets/cybersecurity.gif"
+    src="./cybersecurity.gif"
     alt="Cybersecurity Animation"
     width="620"
   />
@@ -236,5 +236,4 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 
 ⭐ Gracias por visitar mi perfil
 
-</div><img width="640" height="519" alt="descarga" src="https://github.com/user-attachments/assets/c7c17d7e-0618-47fe-8927-433420957ae2" />
-<img width="640" height="519" alt="descarga" src="https://github.com/user-attachments/assets/a21252a2-f48c-4c65-b5d4-c20335cf9787" />
+</div>
