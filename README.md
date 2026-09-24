@@ -1,12 +1,16 @@
 <div align="center">
 
-<img
-  width="650"
-  src="./assets/cybersecurity.gif"
-  alt="Cybersecurity Animation"
-/>
+  <img
+    src="./assets/cybersecurity.gif"
+    alt="Cybersecurity Animation"
+    width="620"
+  />
+
+</div>
 
 <br>
+
+<div align="center">
 
 # 👋 Hola, soy Armin
 
@@ -55,7 +59,9 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <div align="center">
 
 <img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
+
 <img src="https://img.shields.io/badge/OWASP-Security-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+
 <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
 
 <br><br>
@@ -75,6 +81,7 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" />
+
 <img src="https://img.shields.io/badge/GNS3-Network_Labs-2C3E50?style=for-the-badge" alt="GNS3" />
 
 <br><br>
@@ -98,9 +105,13 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <br><br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 
 </div>
@@ -126,10 +137,15 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <div align="center">
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
 <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver" />
 
 </div>
@@ -141,8 +157,11 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+
 <img src="https://img.shields.io/badge/Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
+
 <img src="https://img.shields.io/badge/Database_Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Security" />
+
 <img src="https://img.shields.io/badge/Backend_Security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Security" />
 
 <br><br>
@@ -175,9 +194,13 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
+
 <img src="https://img.shields.io/badge/Network_Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Security" />
+
 <img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
+
 <img src="https://img.shields.io/badge/Backend_Security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Security" />
+
 <img src="https://img.shields.io/badge/Database_Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Security" />
 
 </div>
@@ -213,4 +236,5 @@ Estudiante de **Ingeniería en Sistemas** interesado principalmente en
 
 ⭐ Gracias por visitar mi perfil
 
-</div>
+</div><img width="640" height="519" alt="descarga" src="https://github.com/user-attachments/assets/c7c17d7e-0618-47fe-8927-433420957ae2" />
+<img width="640" height="519" alt="descarga" src="https://github.com/user-attachments/assets/a21252a2-f48c-4c65-b5d4-c20335cf9787" />
