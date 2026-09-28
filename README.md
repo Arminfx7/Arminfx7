@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# 👋 Hola, soy Armin
+# 👋 Hola, soy Armín
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;Networking+%26+Network+Security;Database+Security;Backend+Development;Linux+%26+Ethical+Hacking"
